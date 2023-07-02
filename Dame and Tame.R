@@ -1,6 +1,6 @@
 print ("Dame")
 print ("Tame")
-x <- ("Dame")
+x <- ("Came")
 y <- ("Tame")
 x
 y
